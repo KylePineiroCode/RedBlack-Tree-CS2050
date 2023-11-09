@@ -1,0 +1,5 @@
+Kyle Pineiro 
+The number occurrences of 'the' in the reading is: 7888
+The number of nodes is: 18475
+The height of the BST is: 16
+The max nodes in the BST is: 65535
